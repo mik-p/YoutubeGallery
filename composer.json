@@ -3,7 +3,7 @@
   "type": "winter-plugin",
   "description": "Youtube gallery plugin",
   "homepage": "https://github.com/mik-p/wn-youtube-gallery-plugin",
-  "version": "0.0.1",
+  "version": "1.0.4",
   "authors": [
     {
       "name": "lunfel"
