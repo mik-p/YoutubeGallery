@@ -1,0 +1,28 @@
+{
+  "name": "taema/wn-youtube-gallery-plugin",
+  "type": "winter-plugin",
+  "description": "Youtube gallery plugin",
+  "homepage": "https://github.com/mik-p/wn-youtube-gallery-plugin",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "lunfel"
+    }
+    {
+      "name": "mik-p"
+    }
+  ],
+  "keywords": [
+    "wintercms",
+    "plugin",
+    "youtube",
+    "gallery"
+  ],
+  "require": {
+    "php": ">=7.4",
+    "composer/installers": "~1.0"
+  },
+  "extra": {
+    "installer-name": "YoutubeGallery"
+  }
+}
